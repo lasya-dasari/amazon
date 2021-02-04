@@ -39,9 +39,13 @@ public class Login extends Baseclass
     login.continue_link();
     login.password();
 	login.signin();
-	 
 		 
   }
+	 
+	 public void verify_forgetpassword()
+	 {
+		 
+	 }
 	 
 	/* @AfterClass
 	 public void close()
